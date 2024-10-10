@@ -130,12 +130,6 @@ Through this project, we have unlocked deeper insights into our all-time music p
 1. Develop a visualization similar to Spotify Wrapped by building a full-stack app.
 2. Build an application to automate the entire process for visualization based on specified periods (e.g., from January 2024 to March 2024).
 
-## Acknowledgements :
-Finally, I’d like to extend my sincere thanks to “The FrassVerse” for their invaluable video tutorials, which greatly assisted me during the development of this project. Their detailed guides provided essential insights and guidance that were crucial to the successful implementation of my Spotify data project.
-
-https://www.youtube.com/watch?v=q_1IQF0-bsI&t=10s&ab_channel=TheFrassVerse
-
-https://www.youtube.com/watch?v=QOLQHvgFY38&ab_channel=TheFrassVerse
 
 ## Ressources :
 https://github.com/Shawwnscott/music-data-engineering-azure
